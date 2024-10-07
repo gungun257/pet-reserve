@@ -10,14 +10,14 @@
  
 ## 三、效果展示  
 
-![输入图片说明](./preview/1.png)
-![输入图片说明](./preview/2.png)
-![输入图片说明](./preview/3.png)
-![输入图片说明](./preview/4.png)
-![输入图片说明](./preview/5.png)
-![输入图片说明](./preview/6.png)
-![输入图片说明](./preview/7.png)
-![输入图片说明](./preview/8.png)
+![输入图片说明](./preview/1.jpg)
+![输入图片说明](./preview/2.jpg)
+![输入图片说明](./preview/3.jpg)
+![输入图片说明](./preview/4.jpg)
+![输入图片说明](./preview/5.jpg)
+![输入图片说明](./preview/6.jpg)
+![输入图片说明](./preview/7.jpg)
+![输入图片说明](./preview/8.jpg)
 
 
 ## 四、🚀 咨询我们
